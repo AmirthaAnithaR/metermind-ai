@@ -1,0 +1,1 @@
+"""MeterMind AI Backend Application"""
